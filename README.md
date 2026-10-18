@@ -1,2 +1,2 @@
 # ecommerce-spring-boot
-ecommerce-api-spring-boot
+E-commerce API with Spring Boot
